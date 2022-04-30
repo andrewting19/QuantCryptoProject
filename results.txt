@@ -1,0 +1,70 @@
+2022-04-01 | Total P/L % :: 56.01%
+Winrate 69.17% | 283 Trades, 184 Winners, 82 Losers, 17 Breakeven
+All Trades | Avg Trade 0.20% | SD 0.44%
+Winners | Avg Trade 0.41% | SD 0.38%
+Losers | Avg Trade -0.24% | SD 0.23%
+Profit Factor: 3.828896836672182 | Gross Profit: 75.80% | Gross Loss: -19.80%
+-------------------------
+2022-04-04 | Total P/L % :: 10.02%
+Winrate 47.02% | 334 Trades, 142 Winners, 160 Losers, 32 Breakeven
+All Trades | Avg Trade 0.03% | SD 0.39%
+Winners | Avg Trade 0.33% | SD 0.39%
+Losers | Avg Trade -0.23% | SD 0.19%
+Profit Factor: 1.2686606451548943 | Gross Profit: 47.34% | Gross Loss: -37.31%
+-------------------------
+2022-04-05 | Total P/L % :: -21.79%
+Winrate 39.55% | 380 Trades, 140 Winners, 214 Losers, 26 Breakeven
+All Trades | Avg Trade -0.06% | SD 0.32%
+Winners | Avg Trade 0.18% | SD 0.22%
+Losers | Avg Trade -0.22% | SD 0.29%
+Profit Factor: 0.5357675009090516 | Gross Profit: 25.15% | Gross Loss: -46.95%
+-------------------------
+2022-04-06 | Total P/L % :: -25.07%
+Winrate 44.85% | 370 Trades, 148 Winners, 182 Losers, 40 Breakeven
+All Trades | Avg Trade -0.07% | SD 0.47%
+Winners | Avg Trade 0.33% | SD 0.34%
+Losers | Avg Trade -0.40% | SD 0.34%
+Profit Factor: 0.659645728535639 | Gross Profit: 48.59% | Gross Loss: -73.66%
+-------------------------
+2022-04-07 | Total P/L % :: 41.82%
+Winrate 57.93% | 346 Trades, 190 Winners, 138 Losers, 18 Breakeven
+All Trades | Avg Trade 0.12% | SD 0.43%
+Winners | Avg Trade 0.40% | SD 0.35%
+Losers | Avg Trade -0.24% | SD 0.23%
+Profit Factor: 2.241976755282526 | Gross Profit: 75.50% | Gross Loss: -33.68%
+-------------------------
+2022-04-08 | Total P/L % :: -18.35%
+Winrate 43.04% | 342 Trades, 136 Winners, 180 Losers, 26 Breakeven
+All Trades | Avg Trade -0.05% | SD 0.45%
+Winners | Avg Trade 0.34% | SD 0.31%
+Losers | Avg Trade -0.36% | SD 0.32%
+Profit Factor: 0.7138220950846526 | Gross Profit: 45.78% | Gross Loss: -64.14%
+-------------------------
+2022-04-11 | Total P/L % :: -25.95%
+Winrate 43.36% | 306 Trades, 124 Winners, 162 Losers, 20 Breakeven
+All Trades | Avg Trade -0.08% | SD 0.35%
+Winners | Avg Trade 0.21% | SD 0.16%
+Losers | Avg Trade -0.32% | SD 0.29%
+Profit Factor: 0.49986579009800175 | Gross Profit: 25.94% | Gross Loss: -51.89%
+-------------------------
+2022-04-12 | Total P/L % :: 61.52%
+Winrate 64.36% | 218 Trades, 130 Winners, 72 Losers, 16 Breakeven
+All Trades | Avg Trade 0.28% | SD 0.66%
+Winners | Avg Trade 0.65% | SD 0.60%
+Losers | Avg Trade -0.31% | SD 0.25%
+Profit Factor: 3.728490870834246 | Gross Profit: 84.07% | Gross Loss: -22.55%
+-------------------------
+2022-04-13 | Total P/L % :: 30.85%
+Winrate 61.54% | 375 Trades, 216 Winners, 135 Losers, 24 Breakeven
+All Trades | Avg Trade 0.08% | SD 0.28%
+Winners | Avg Trade 0.26% | SD 0.20%
+Losers | Avg Trade -0.19% | SD 0.18%
+Profit Factor: 2.186295765051196 | Gross Profit: 56.85% | Gross Loss: -26.00%
+-------------------------
+2022-04-14 | Total P/L % :: -28.54%
+Winrate 36.87% | 367 Trades, 125 Winners, 214 Losers, 28 Breakeven
+All Trades | Avg Trade -0.08% | SD 0.32%
+Winners | Avg Trade 0.21% | SD 0.22%
+Losers | Avg Trade -0.26% | SD 0.27%
+Profit Factor: 0.4789149613879602 | Gross Profit: 26.23% | Gross Loss: -54.76%
+-------------------------
